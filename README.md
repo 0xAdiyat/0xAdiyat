@@ -19,7 +19,8 @@ const anon = {
   framworks: [Flutter, Spring, .NET],
   servers: [Apache, Ngnix],
   hosting: [Firebase, AWS, Azure],
-  design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD, Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
+  design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD,
+          Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
   techCommunities: {
                         coo: "Paradoxical Squad",
                         speaker: "GHHC",
