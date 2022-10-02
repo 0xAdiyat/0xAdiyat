@@ -26,16 +26,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huss4in007&theme=vue"/>
 </p>
 
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Huss4in007&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huss4in007&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark" />
+</p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Huss4in007&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+	<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Huss4in007&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
