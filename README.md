@@ -31,15 +31,7 @@ const anon = {
 [![GitHub Thaiane](https://img.shields.io/github/followers/Huss4in007?label=follow&style=social)](https://github.com/Huss4in007)
 
 
-### 📈 Activity Graph
-<p align="center">
-	<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Huss4in007&theme=vue&hide_border=true"/>
-</p>
 
-### 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huss4in007&theme=tokyonight"/>
-</p>
 
 
 ### 📊 GitHub Stats:
@@ -49,10 +41,6 @@ const anon = {
 </p>
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-	<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Huss4in007&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 
 
 #### ✍️ Random Dev Quote
