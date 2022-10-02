@@ -5,16 +5,17 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Huss4in007&icon=0&color=0" alt="Huss4in007" /> </p>
 
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const anon = {
   pronouns: "he" | "his",
   code: [Java, Dart, C#, Javascript, Typescript, HTML, CSS, Python],
-  tools: [Android Studio, Visual Studio, Unreal Engine, Intellij IDEA],
+  tools: [Android Studio, Visual Studio Code, Unreal Engine, Intellij IDEA],
   framworks: [Flutter, Spring, .NET],
   servers: [Apache, Ngnix],
   hosting: [Firebase, AWS, Azure],
-  design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD, Canva, Blender, Figma, Gimp, Krita, Inkscape],
+  design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD, Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
   techCommunities: {
                         coo: "Paradoxical Squad",
                         speaker: "GHHC",
@@ -46,7 +47,10 @@ const anon = {
 
 <div align="center">
 
-<em><b>Show some 🤍</b> by starring some of the repositories!</b> :)</em>
+<em><b>Show some 🤍</b> by starring some of the repositories!</b> :)</em> 
 
 </div>
+
+
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
