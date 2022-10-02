@@ -18,7 +18,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Huss4in007&theme=minimal"/>
+	<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Huss4in007&theme=vue"/>
 </p>
 
 ## 💳 Github Profile Summary Card
