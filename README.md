@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Ahsaf Hussain Adiyat</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Huss4in007&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Huss4in007" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Huss4in007&icon=0&color=0" alt="Huss4in007" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Android App Development<br>👯 I’m looking to collaborate on development related to Android<br>🤝 I’m looking for help with DS & Machine Learning<br>🌱 I’m currently learning Flutter<br>💬 Ask me about your queries over Programming and Cyber Security<br>⚡ Fun fact aiming for the top
@@ -18,19 +18,19 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Huss4in007&theme=vue"/>
+	<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Huss4in007&theme=vue&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huss4in007&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huss4in007&theme=tokyonight"/>
 </p>
 
 
 ## 📊 GitHub Stats:
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark&hide_border=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=true" />
 </p>
 
 
