@@ -25,8 +25,7 @@ const anon = {
 }
 ```
 
-
-### 🌐 Socials
+### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Socials
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Huss4in007?style=social)](https://twitter.com/Huss4in007)
 [![Linkedin: Huss4in007](https://img.shields.io/badge/-Huss4in007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Huss4in007/)](https://www.linkedin.com/in/Huss4in007/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Huss4in007?label=follow&style=social)](https://github.com/Huss4in007)
@@ -35,7 +34,7 @@ const anon = {
 
 
 
-### 📊 GitHub Stats
+### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> GitHub Stats
 <p align="center">
 	<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark&hide_border=true" />
 	<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=true" />
