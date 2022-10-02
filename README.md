@@ -33,9 +33,7 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Huss4in007&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
