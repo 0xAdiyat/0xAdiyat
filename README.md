@@ -34,22 +34,19 @@ const anon = {
 
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark&hide_border=true" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=true" />
+	<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark&hide_border=true" />
+	<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=true" />
+	<img width="50.8%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </p>
 
 
 
-
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <div align="center">
 
-### Show some 🤍 by starring some of the repositories!
+#### Show some 🤍 by starring some of the repositories!
 
 </div>
 
