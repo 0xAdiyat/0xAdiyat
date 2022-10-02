@@ -46,7 +46,7 @@ const anon = {
 
 <div align="center">
 
-#### Show some 🤍 by starring some of the repositories!
+<em><b>Show some 🤍</b> by starring some of the repositories!</b> :)</em>
 
 </div>
 
