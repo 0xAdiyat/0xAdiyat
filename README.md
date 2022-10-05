@@ -1,5 +1,5 @@
 <h2 align="center">
-        <samp>&gt; Hey There!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+        <samp>&gt; Hey There! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="30"
          width="30" /> I am
