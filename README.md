@@ -26,7 +26,7 @@ const anon = {
                         speaker: "GHHC",
                         mentor: "Paradoxical Squad"
                       },
- challenge: "I am doing the #30DaysOfCode challenge focused on flutter"
+ challenge: "I'm doing the #30DaysOfCoding challenge focused on flutter"
 }
 ```
 
@@ -50,7 +50,7 @@ const anon = {
 
 
 <div align="center">
-<em><b>Show some 🤍</b> by starring some of the repositories!</b> :)</em> 
+<em><b>Show some 🤍</b> by starring some of the repositories! :)</b></em> 
 </div>
 
 
