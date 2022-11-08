@@ -43,11 +43,14 @@ const anon = {
 <p align="center">
 	<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=Huss4in007&show_icons=true&theme=vue-dark&hide_border=true" />
 	<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huss4in007&theme=vue-dark&hide_border=true" />
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
 
 
+</p>	
+	<br>
+	</br>
+	<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+	
 
 <div align="center">
 <em><b>Show some 🤍</b> by starring some of the repositories! :)</b></em> 
