@@ -15,9 +15,9 @@
 const anon = {
   pronouns: "he" | "his",
   code: [Java, Dart, C#, Javascript, Typescript, HTML, CSS, Python],
-  tools: [Android Studio, Visual Studio Code, Unreal Engine, Intellij IDEA],
+  tools: [Android Studio, Visual Studio Code, Intellij IDEA], STS(SpringToolSuite4), Eclipse,
   framworks: [Flutter, Spring, .NET],
-  servers: [Apache, Ngnix],
+  servers: [MySQL, Apache, Ngnix],
   hosting: [Firebase, AWS, Azure],
   design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD,
   	  Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
