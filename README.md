@@ -27,7 +27,7 @@ const anon = {
                         speaker: "GHHC",
                         mentor: "Paradoxical Squad"
                       },
- challenge: "I'm doing the #30DaysOfCoding challenge focused on flutter"
+ challenge: "I'm improving my current state by doing new projects"
 }
 ```
 
