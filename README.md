@@ -23,11 +23,12 @@ const anon = {
   design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD,
   	  Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
   techCommunities: {
-                        coo: "Paradoxical Squad",
-                        speaker: "GHHC",
-                        mentor: "Paradoxical Squad"
+  			android_and_ios_app_developer: "Zenith.dev",
+			software_developer: "TarunSoft(PVT) Limited",
+                        speaker: "Zenith.dev",
+                        mentor: "Zenith.dev"
                       },
- challenge: "I'm improving my current state by doing new projects"
+ challenge: "Learning DSA :D"
 }
 ```
 
