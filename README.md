@@ -31,8 +31,8 @@ const anon = {
 }
 ```
 
-### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Socials
-[![Twitter: Huss4in007](https://img.shields.io/twitter/follow/Huss4in007?style=social)](https://twitter.com/Huss4in007)
+### <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/> Socials
+[![Twitter: 0xAdiyat](https://img.shields.io/twitter/follow/0xAdiyat?style=social)](https://twitter.com/0xAdiyat)
 [![Linkedin: 0xAdiyat](https://img.shields.io/badge/-0xAdiyat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xAdiyat/)](https://www.linkedin.com/in/0xAdiyat/)
 [![GitHub 0xAdiyat](https://img.shields.io/github/followers/0xAdiyat?label=follow&style=social)](https://github.com/0xAdiyat)
 
@@ -40,7 +40,7 @@ const anon = {
 
 
 
-### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> GitHub Stats
+### <img height="40" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> GitHub Stats
 <p align="center">
 	<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&theme=vue-dark&hide_border=true" />
 	<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAdiyat&theme=vue-dark&hide_border=true" />
@@ -54,7 +54,7 @@ const anon = {
 	
 
 <div align="center">
-<em><b>Show some 🤍</b> by starring some of the repositories! :)</b></em> 
+<b>Show some 🤍</b> by starring some of the repositories! :)</b>
 </div>
 
 
