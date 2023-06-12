@@ -23,8 +23,8 @@ const anon = {
   design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD,
   	  Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
   techCommunities: {
-  			android_and_ios_app_developer: "Zenith.dev",
-			software_developer: "TarunSoft(PVT) Limited",
+  			software_developer: "Zenith.dev",
+			android_and_ios_app_developer: "TarunSoft(PVT) Limited",
                         speaker: "Zenith.dev",
                         mentor: "Zenith.dev"
                       },
