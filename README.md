@@ -26,7 +26,8 @@ const anon = {
   			software_developer: "Zenith.dev",
 			android_and_ios_app_developer: "TarunSoft(PVT) Limited",
                         speaker: "Zenith.dev",
-                        mentor: "Zenith.dev"
+                        mentor: "Zenith.dev",
+	  		admin: "Gray Hat Hacker's Community(GHHC), Paradoxical Squad(PHS)"
                       },
  challenge: "Learning DSA :D"
 }
