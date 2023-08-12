@@ -1,35 +1,122 @@
+<!-- Header section -->
 <h2 align="center">
-        <samp>&gt; Hey There, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="30" /> I am
-                <b><a target="_blank" href="https://www.facebook.com/Huss4in007/">Ahsaf Hussain Adiyat</a></b>
-        </samp>
+  <samp>&gt; Hey There, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+   alt="Waving hand animated gif"
+   height="30"
+   width="30" /> I am
+  <b><a target="_blank" href="https://www.facebook.com/Huss4in007/">Ahsaf Hussain Adiyat</a></b>
+  </samp>
 </h2>
 
+<!-- Visitor count section -->
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&icon=0&color=0" alt="Ahsaf Hussain Adiyat" /> </p>
 
+<!-- Introduction -->
+<p>An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise.</p>
 
-An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise.
+<p>I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings.</p>
 
-I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings.
+<!-- Current activities -->
+<ul>
+  <li>🔭 I’m currently working on
+    <ul>
+      <li><a href="#open-source-projects">Open source projects</a></li>
+      <li><a href="#making-tutorials">Making tutorials</a></li>
+      <li><a href="#writing-articles">Writing articles</a></li>
+      <li><a href="#animation-and-ui-challenges">Animation & UI Challenges</a></li>
+      <li>Lots of half-finished side projects 👀 (Guilty!)</li>
+    </ul>
+  </li>
+  <li>🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!</li>
+  <li>💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍</li>
+</ul>
 
-* 🔭 I’m currently working on 
-  - [Open source projects](#open-source-projects) 👇🏼
-  - [Making tutorials](#making-tutorials) 👇🏼
-  - [Writing articles](#writing-articles) 👇🏼
-  - [Animation & UI Challenges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges) 👇🏼
-  - Lots of half-finished side projects 👀 (Guilty!)
-* 🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!
-* 💬 Ask me about anything regarding Flutter & Java/Spring-Boot  🤍
-* 📫 How to reach me:
-  * Email: 0xAdiyat@gmail.com
-  * [Twitter](https://twitter.com/0xAdiyat)
-  * [LinkedIn](https://www.linkedin.com/in/0xAdiyat/)
-  * [Facebook](https://www.facebook.com/0xAdiyat/)
+<!-- Contact information -->
+<p>📫 How to reach me:
+  <ul>
+    <li>Email: 0xAdiyat@gmail.com</li>
+    <li><a href="https://twitter.com/0xAdiyat">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/0xAdiyat/">LinkedIn</a></li>
+    <li><a href="https://www.facebook.com/0xAdiyat/">Facebook</a></li>
+  </ul>
+</p>
 
-* 😄 Pronouns: He/Him 👩🏻‍💻
-* ⚡ Fun fact: I have diverse skills & interests
+<!-- Additional info -->
+<p>😄 Pronouns: He/Him 👩🏻‍💻<br />
+⚡ Fun fact: I have diverse skills & interests</p>
+
+<!-- GitHub stats and streaks -->
+<div style="display: flex; align-items: center;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
+</div>
+
+<!-- Open Source Projects section -->
+## Open Source Projects
+
+<table>
+  <tbody>
+    <!-- JetNinja project -->
+    <tr>
+      <th>Project</th>
+      <th width="35%">Links</th>
+    </tr>
+    <tr>
+      <td>
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/images/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
+        <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials</h3>
+        <p>🎥 <a href="">Watch Demo Video</a></p>
+        <p>
+          JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
+        </p>
+        <p>📃 <a href="https://github.com/ZenithSuite/JetNinja">You can view the source code here</a></p>
+      </td>
+      <td>
+        <p>🔗 <a href="https://github.com/ZenithSuite/JetNinja/releases/download/JetNinjaV1/JetNinja.Beta.Release.-.Version.1.0.jar">Get latest release</a></p>
+        <br />
+        <h4>Source code</h4>
+        <div>
+          <a href="https://github.com/ZenithSuite/JetNinja/">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithSuite&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/Huss4in007/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
+        <h3>ToDo-WishFlow</h3>
+        <p>A Flutter-based ToDo app made with GetX Package</p>
+        <p>
+          Create tasks and track your daily life easily. Built with Flutter and used GitX Package. You can read detailed information in the <a href="https://github.com/0xAdiyat/ToDo-WishFlow">README</a>.
+        </p>
+        <br />
+        🧪 Unit & widget tests! (100% coverage! 🚀)
+      </td>
+      <td>
+		<p>🔗 <a href="https://github.com/Huss4in007/ToDo-WishFlow/blob/master/flutter-apk/ToDo%20-%20WishFlow.apk">Download Latest Release</a></p>
+<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ToDo-WishFlow v1.0.1" />
+</a>
+<br />
+<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ToDo-WishFlow v1.0.1" />
+</a>
+<br />
+        <div>
+          <a href="https://github.com/0xAdiyat/ToDo-WishFlow">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=ToDo-WishFlow&theme=dracula" alt="ToDo-WishFlow Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+---
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -63,11 +150,6 @@ const anon = {
 
 
 
-
-### <img height="40" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/> GitHub Stats
-<p align="center">
-	<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&theme=vue-dark&hide_border=true" />
-	<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAdiyat&theme=vue-dark&hide_border=true" />
 
 
 </p>	
