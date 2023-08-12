@@ -115,12 +115,61 @@
     </tr>
   </tbody>
 </table>
-
-
-
+	
 ---
 
+## Animation and UI Challenges
 
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Toolbar</th>	
+			<th>Card Swiper</th>	
+			<th>3D Calculator</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/@Connectify-FeedScreen-Refresh-Loading-Animation.gif?raw=true" alt="Threads app Refresh Indicator"></img>
+			</td>
+			<td>
+				<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/SpaceElement.png" alt="SpaceElement"></img>
+			</td>
+			<td>
+			<img src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Acadify.png?raw=true" alt="Acadify"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula" alt="@Connectify" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/0xAdiyat/Acadify">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula" alt="Acadify" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/0xAdiyat/SpaceElement">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula" alt="SpaceElement" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://twitter.com/0xAdiyat/status/1682357731032981504">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="null">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="null">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
