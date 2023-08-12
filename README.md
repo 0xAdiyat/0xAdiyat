@@ -95,7 +95,7 @@
     <!-- JetNinja project -->
     <tr>
       <td>
-        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/images/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
         <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials</h3>
         <p>🎥 <a href="">Watch Demo Video</a></p>
         <p>
