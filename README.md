@@ -71,6 +71,12 @@
         </p>
         <br />
         🧪 Unit & widget tests! (100% coverage! 🚀)
+
+📃<b>Features</b>
+* Organize your life
+* Add tasks and lists with the To Do widget
+* Daily organizer personalized with bold and colorful ui
+* Apply badge and labels
       </td>
       <td>
 		<p>🔗 <a href="https://github.com/Huss4in007/ToDo-WishFlow/blob/master/flutter-apk/ToDo%20-%20WishFlow.apk">Download Latest Release</a></p>
@@ -94,7 +100,7 @@
     <!-- EsePorchi-Arrived Project -->
     <tr>
       <td>
-        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/EsePorchi-Arrived%20Demo.gif?raw=true" alt="EsePorchi-Arrived Cover" />
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/ese-porchi-arrived-demo-thumbnail.png" alt="EsePorchi-Arrived Cover" />
         <h3>EsePorchi-Arrived</h3>
         <p>A Flutter mobile application that helps users set alarms for specific destinations and receive notifications when they reach those destinations</p>
         <p>
@@ -114,13 +120,13 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 - Persist alarm data using SharedPreferences.
       </td>
       <td>
-		<p>🔗 <a href="https://github.com/Huss4in007/ToDo-WishFlow/blob/master/flutter-apk/ToDo%20-%20WishFlow.apk">Download Latest Release</a></p>
-<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ToDo-WishFlow v1.0.1" />
+		<p>🔗 <a href="https://github.com/0xAdiyat/EsePorchi-Arrived/releases/download/V1/app-release-v1.0.0.apk">Download Pre-Release</a></p>
+<a href="https://github.com/0xAdiyat/EsePorchi-Arrived/releases/tag/V1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="EsePorchi-Arrived Pre-Release-V1.0.0" />
 </a>
 <br />
-<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ToDo-WishFlow v1.0.1" />
+<a href="https://github.com/0xAdiyat/EsePorchi-Arrived/releases/tag/V1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="EsePorchi-Arrived Pre-Release-V1.0.0" />
 </a>
 <br />
 <spacer>
