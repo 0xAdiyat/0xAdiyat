@@ -45,10 +45,12 @@
 <p>😄 Pronouns: He/Him 👩🏻‍💻<br />
 ⚡ Fun fact: I have diverse skills & interests</p>
 
+<br>
+
 <!-- GitHub stats and streaks -->
 <div style="display: flex; align-items: center;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
+  <img width="47.4%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
 </div>
 
 <!-- Open Source Projects section -->
