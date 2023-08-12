@@ -10,6 +10,28 @@
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&icon=0&color=0" alt="Ahsaf Hussain Adiyat" /> </p>
 
 
+An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise.
+
+I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings.
+
+* 🔭 I’m currently working on 
+  - [Open source projects](#open-source-projects) 👇🏼
+  - [Making tutorials](#making-tutorials) 👇🏼
+  - [Writing articles](#writing-articles) 👇🏼
+  - [Animation & UI Challenges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges) 👇🏼
+  - Lots of half-finished side projects 👀 (Guilty!)
+* 🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!
+* 💬 Ask me about anything regarding Flutter & Java/Spring-Boot  🤍
+* 📫 How to reach me:
+  * Email: 0xAdiyat@gmail.com
+  * [Twitter](https://twitter.com/0xAdiyat)
+  * [LinkedIn](https://www.linkedin.com/in/0xAdiyat/)
+  * [Facebook](https://www.facebook.com/0xAdiyat/)
+
+* 😄 Pronouns: He/Him 👩🏻‍💻
+* ⚡ Fun fact: I have diverse skills & interests
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const anon = {
