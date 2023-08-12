@@ -123,9 +123,9 @@
 <table>
 	<tbody width="100%">
 		<tr>
-			<th>Toolbar</th>	
-			<th>Card Swiper</th>	
-			<th>3D Calculator</th>
+			<th>@Connectify</th>	
+			<th>Acadify</th>	
+			<th>SpaceElement</th>
 		</tr>
 		<tr>
 			<td>
