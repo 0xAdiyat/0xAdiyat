@@ -53,36 +53,14 @@
   <img width="47.4%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
 </div>
 
-<!-- Open Source Projects section -->
 ## Open Source Projects
 
 <table>
   <tbody>
-    <!-- JetNinja project -->
+    <!-- ToDo-WishFlow project -->
     <tr>
       <th>Project</th>
       <th width="35%">Links</th>
-    </tr>
-    <tr>
-      <td>
-        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/images/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
-        <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials</h3>
-        <p>🎥 <a href="">Watch Demo Video</a></p>
-        <p>
-          JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
-        </p>
-        <p>📃 <a href="https://github.com/ZenithSuite/JetNinja">You can view the source code here</a></p>
-      </td>
-      <td>
-        <p>🔗 <a href="https://github.com/ZenithSuite/JetNinja/releases/download/JetNinjaV1/JetNinja.Beta.Release.-.Version.1.0.jar">Get latest release</a></p>
-        <br />
-        <h4>Source code</h4>
-        <div>
-          <a href="https://github.com/ZenithSuite/JetNinja/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithSuite&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
-          </a>
-        </div>
-      </td>
     </tr>
     <tr>
       <td>
@@ -108,6 +86,28 @@
         <div>
           <a href="https://github.com/0xAdiyat/ToDo-WishFlow">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=ToDo-WishFlow&theme=dracula" alt="ToDo-WishFlow Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <!-- JetNinja project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/images/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
+        <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials</h3>
+        <p>🎥 <a href="">Watch Demo Video</a></p>
+        <p>
+          JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
+        </p>
+        <p>📃 <a href="https://github.com/ZenithSuite/JetNinja">You can view the source code here</a></p>
+      </td>
+      <td>
+        <p>🔗 <a href="https://github.com/ZenithSuite/JetNinja/releases/download/JetNinjaV1/JetNinja.Beta.Release.-.Version.1.0.jar">Get latest release</a></p>
+        <br />
+        <h4>Source code</h4>
+        <div>
+          <a href="https://github.com/ZenithSuite/JetNinja/">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithSuite&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
           </a>
         </div>
       </td>
