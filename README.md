@@ -171,8 +171,8 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	<tbody width="100%">
 		<tr>
 			<th>@Connectify</th>	
-			<th>Acadify</th>	
-			<th>SpaceElement</th>
+			<th>SpaceElement</th>	
+			<th>Acadify</th>
 		</tr>
 		<tr>
 			<td>
