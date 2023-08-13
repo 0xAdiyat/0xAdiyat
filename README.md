@@ -20,10 +20,11 @@
 <ul>
   <li>🔭 I’m currently working on
     <ul>
-      <li><a href="#open-source-projects">Open source projects</a></li>
-      <li><a href="#making-tutorials">Making tutorials</a></li>
-      <li><a href="#writing-articles">Writing articles</a></li>
-      <li><a href="#animation-and-ui-challenges">Animation & UI Challenges</a></li>
+      <li><a href="#open-source-projects">Open source projects 👇🏼</a></li>
+      <li><a href="#making-tutorials">Making tutorials 👇🏼</a></li>
+      <li><a href="#writing-articles">Writing articles 👇🏼</a></li>
+      <li><a href="#animation-and-ui-challenges">Animation & UI Challenges 👇🏼</a></li>
+      <li><a href="#client-projects-and-personal-apps-on-the-stores-and-vault">Client Projects And Personal Apps on The Stores And Vault 👇🏼</a></li>
       <li>Lots of half-finished side projects 👀 (Guilty!)</li>
     </ul>
   </li>
@@ -216,6 +217,67 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 </table>
 
 ---
+
+
+## Client Projects And Personal Apps on The Stores And Vault
+
+
+<table>
+	<tbody width="100%">
+	<tr>
+		<th>Project</th>	
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td>
+<img width="700px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/travel_story_thumbnail.png?raw=true" alt="Travel-Story-Thumbnail" />
+			<h3>Travel-Story</h3>
+			<p>Unleash the Power of Your Travel Tales app built with Flutter. I worked on this app as the only Flutter Developer</a></p>
+			<p>🗓 December 2022 - 1 January (~1 month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://github.com/0xAdiyat/PrivateAppVault/blob/main/app-release-beta-V1.apk">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Travel-Story on Google Play" />
+</a>
+			</div>
+			<div>
+
+
+   <div>
+🔗 <a href="https://github.com/0xAdiyat/PrivateAppVault/blob/main/app-release-beta-V1.apk">Download apk</a>
+			</div>
+		</td>
+	</tr>
+		<tr>
+			<td>
+<img width="700px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
+				<h3>ClockMeOn</h3>
+				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
+				
+### Features
+- Staff identification setup: Staff members can scan their faces, and set a passcode.
+- Facial recognition: The application uses facial recognition technology to identify staff members.
+- Shift management: Create and update shift records for staff members.
+- Multiple authentication options: Support for facial recognition, and passcode authentication.
+- Local database: Utilizes SQLite database for storing staff and shift data.
+- Cross-platform: Developed using Flutter, allowing for deployment on both iOS and Android devices.
+
+<p>🗓29 June 2023 - 5 July 2023 (~1 week+)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="upwork.com">Website</a>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+---
+
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
