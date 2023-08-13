@@ -70,8 +70,8 @@
           Create tasks and track your daily life easily. Built with Flutter and used GitX Package. You can read detailed information in the <a href="https://github.com/0xAdiyat/ToDo-WishFlow">README</a>.
         </p>
         <br />
-        🧪 Unit & widget tests! (100% coverage! 🚀)
 
+       
 📃<b>Features</b>
 * Organize your life
 * Add tasks and lists with the To Do widget
