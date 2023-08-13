@@ -9,7 +9,7 @@
 </h2>
 
 <!-- Visitor count section -->
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&icon=0&color=0" alt="Adiyat's profile views" /> </p>
+<img src="https://visitcount.itsvg.in/api?id=0xAdiyat&label=Profile%20Views&icon=5&pretty=false" alt="Adiyat's profile views" /> </p>
 
 <!-- Introduction -->
 <p>An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise.</p>
