@@ -255,7 +255,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	</tr>
 		<tr>
 			<td>
-<img width="630px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
+<img width="620px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
 				<h3>ClockMeOn</h3>
 				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
 				
