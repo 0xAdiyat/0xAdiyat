@@ -340,10 +340,33 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 			</div>
 		</td>
 	</tr>
+<!-- ClockMeOn-Project -->
 		<tr>
 			<td>
 <img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
 <h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-CP.png" alt="Client-Project-Tag"/></h3>
+				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
+				
+### Features
+- Staff identification setup: Staff members can scan their faces, and set a passcode.
+- Facial recognition: The application uses facial recognition technology to identify staff members.
+- Shift management: Create and update shift records for staff members.
+- Multiple authentication options: Support for facial recognition, and passcode authentication.
+- Local database: Utilizes SQLite database for storing staff and shift data.
+- Cross-platform: Developed using Flutter, allowing for deployment on both iOS and Android devices.
+
+<p>🗓29 June 2023 - 5 July 2023 (~1 week+)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="upwork.com">Website</a>
+			</div>
+			</td>
+		</tr>
+  		<tr>
+			<td>
+<img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
+<h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/></h3>
 				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
 				
 ### Features
