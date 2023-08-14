@@ -380,23 +380,15 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		</tr>
   		<tr>
 			<td>
-<img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
-<h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
-				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
-				
-### Features
-- Staff identification setup: Staff members can scan their faces, and set a passcode.
-- Facial recognition: The application uses facial recognition technology to identify staff members.
-- Shift management: Create and update shift records for staff members.
-- Multiple authentication options: Support for facial recognition, and passcode authentication.
-- Local database: Utilizes SQLite database for storing staff and shift data.
-- Cross-platform: Developed using Flutter, allowing for deployment on both iOS and Android devices.
+<!-- SafeCast-Project -->
+<h3>SafeCast<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
+<p>Encrypted Custom Video Player for Secure course based eLearning App</p>
 
-<p>🗓29 June 2023 - 5 July 2023 (~1 week+)</p>
+<p>🗓14 May 2023 - 15 May 2023 (~1 day+)</p>
 			</td>
 			<td>
 			<div>
-🔗 <a href="upwork.com">Website</a>
+🔗 <a href="null">Website</a>
 			</div>
 			</td>
 		</tr>
