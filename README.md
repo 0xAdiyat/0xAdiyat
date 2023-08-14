@@ -322,7 +322,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Travel%20Story%20-%20Enhanced%20Profile%20Screen%20with%20a%20Sleek,%20Modern%20Design.png?raw=true" alt="Travel Story - Enhanced Profile Screen with a Sleek, Modern Design" />
 				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Travel%20Story%20-%20Revamped%20Sign-Up%20and%20Login%20UI%20with%20a%20Modern,%20User-Friendly%20Design.png?raw=true" alt="Travel Story - Revamped Sign-Up and Login UI with a Modern, User-Friendly Design" />
 			</div>
-			<h3>Travel-Story</h3>
+<h3>Travel-Story <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-CP.png" alt="Client-Project-Tag"/></h3>
 			<p>Unleash the Power of Your Travel Tales app built with Flutter. I worked on this app as the only Flutter Developer</a></p>
 			<p>🗓 December 2022 - 1 January (~1 month)</p>
 		</td>
@@ -343,7 +343,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<tr>
 			<td>
 <img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
-				<h3>ClockMeOn</h3>
+<h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-CP.png" alt="Client-Project-Tag"/></h3>
 				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
 				
 ### Features
