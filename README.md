@@ -139,6 +139,35 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         </div>
       </td>
     </tr>
+    <!-- @Connectify Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/connectify-thumbnail.png" alt="@Connectfy Cover" />
+        <h3>@Connectfy - A Threads Clone</h3>
+        <p>At the rate of Connectify in short @Connectify is a Threads app clone. Currently, it just has the feed screen design along with the special refresh indicator which the Threads app has</p>
+        <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">README</a>.
+        </p>
+        <br />
+      </td>
+      <td>
+		<p>🔗 <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/download/v1/app-release-beta-release.apk">Download Pre-Release</a></p>
+<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="@Connectify Pre-Release-V1.0" />
+</a>
+<br />
+<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="@Connectify Pre-Release-V1.0" />
+</a>
+<br />
+<spacer>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula"alt="@Connectify Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
     <!-- JetNinja project -->
     <tr>
       <td>
