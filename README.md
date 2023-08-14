@@ -150,13 +150,13 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <br />
       </td>
       <td>
-		<p>🔗 <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/download/v1/app-release-beta-release.apk">Download Pre-Release</a></p>
+		<p>🔗 <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/download/v1/app-release-beta-release.apk">Download Beta-Release</a></p>
 <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="@Connectify Pre-Release-V1.0" />
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="@Connectify Beta-Release-V1.0" />
 </a>
 <br />
 <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="@Connectify Pre-Release-V1.0" />
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="@Connectify Beta-Release-V1.0" />
 </a>
 <br />
 <spacer>
@@ -164,6 +164,64 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <div>
           <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula"alt="@Connectify Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+	    <!-- SpaceElement Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/SpaceElement-Thumbnail.png?raw=true" alt="SpaceElement Cover" />
+        <h3>SpaceElement</h3>
+        <p>Ignite your cosmic curiosity with this captivating app that brings the wonders of outer space to your fingertips. Explore, learn, and play with stunning visuals, interactive tours, and engaging quizzes. Embark on a journey through the universe without leaving your device</p>
+        <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/SpaceElement">README</a>.
+        </p>
+        <br />
+      </td>
+      <td>
+		<p>🔗 <a href="null">Download Latest-Release</a></p>
+<a href="null">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="SpaceElement Latest-Release" />
+</a>
+<br />
+<a href="null">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="SpaceElement Latest-Release" />
+</a>
+<br />
+<spacer>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/SpaceElement">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula"alt="SpaceElement Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+	    <!-- Acadify Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Acadify-Thumbnail.png" alt="Acadify Cover" />
+        <h3>Acadify</h3>
+        <p>An innovative online course app that brings the world of education to your fingertips</p>
+        <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/Acadify">README</a>.
+        </p>
+        <br />
+      </td>
+      <td>
+		<p>🔗 <a href="null">Download Latest-Release</a></p>
+<a href="null">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Acadify Latest-Release" />
+</a>
+<br />
+<a href="null">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Acadify Latest-Release" />
+</a>
+<br />
+<spacer>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/Acadify">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula"alt="Acadify Repo" />
           </a>
         </div>
       </td>
