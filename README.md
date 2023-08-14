@@ -403,7 +403,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const anon = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Java, Dart, C, Typescript, HTML, Python],
   tools: [Vim, Android Studio, Visual Studio Code, Intellij IDEA, STS(SpringToolSuite4), Eclipse, Sublime Text 3],
   frameworks: [Flutter, Spring, .NET],
@@ -423,22 +423,7 @@ const anon = {
 }
 ```
 
-### <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/> Socials
-[![Twitter: 0xAdiyat](https://img.shields.io/twitter/follow/0xAdiyat?style=social)](https://twitter.com/0xAdiyat)
-[![Linkedin: 0xAdiyat](https://img.shields.io/badge/-0xAdiyat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xAdiyat/)](https://www.linkedin.com/in/0xAdiyat/)
-[![GitHub 0xAdiyat](https://img.shields.io/github/followers/0xAdiyat?label=follow&style=social)](https://github.com/0xAdiyat)
-
-
-
-
-
-
 </p>	
-	<br>
-	</br>
-	<p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-	
 
 <div align="center">
 <b>Show some 🤍</b> by starring some of the repositories! :)</b>
