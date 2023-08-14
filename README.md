@@ -24,7 +24,7 @@
       <li><a href="#making-tutorials">Making tutorials 👇🏼</a></li>
       <li><a href="#writing-articles">Writing articles 👇🏼</a></li>
       <li><a href="#animation-and-ui-challenges">Animation & UI Challenges 👇🏼</a></li>
-      <li><a href="#client-projects-and-personal-apps-on-the-stores-and-vault">Client Projects And Personal Apps on The Stores And Vault 👇🏼</a></li>
+      <li><a href="#client-projects-and-private-apps-on-the-stores-and-vault">Client Projects And Private Apps on The Stores And Vault 👇🏼</a></li>
       <li>Lots of half-finished side projects 👀 (Guilty!)</li>
     </ul>
   </li>
@@ -65,7 +65,10 @@
     <tr>
       <td>
         <img width="600px" src="https://github.com/Huss4in007/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
-        <h3>ToDo-WishFlow</h3>
+	      <h3>ToDo-WishFlow
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
         <p>A Flutter-based ToDo app made with GetX Package</p>
         <p>
           Create tasks and track your daily life easily. Built with Flutter and used GitX Package. You can read detailed information in the <a href="https://github.com/0xAdiyat/ToDo-WishFlow">README</a>.
@@ -102,8 +105,11 @@
     <tr>
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/ese-porchi-arrived-demo-thumbnail.png" alt="EsePorchi-Arrived Cover" />
-        <h3>EsePorchi-Arrived</h3>
-        <p>A Flutter mobile application that helps users set alarms for specific destinations and receive notifications when they reach those destinations</p>
+	<h3>EsePorchi-Arrived
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+	      <p>A Flutter mobile application that helps users set alarms for specific destinations and receive notifications when they reach those destinations</p>
         <p>
           Set multiple alarms for different destinations.
 Receive notifications when approaching a destination.
@@ -143,8 +149,11 @@ Persist alarm data using SharedPreferences. You can read detailed information in
     <tr>
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/connectify-thumbnail.png" alt="@Connectfy Cover" />
-        <h3>@Connectfy - A Threads Clone</h3>
-        <p>At the rate of Connectify in short @Connectify is a Threads app clone. Currently, it just has the feed screen design along with the special refresh indicator which the Threads app has</p>
+	      <h3>@Connectify
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+        <p>At the rate of Connectify - A Threads Clone in short @Connectify is a Threads app clone. Currently, it just has the feed screen design along with the special refresh indicator which the Threads app has</p>
         <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">README</a>.
         </p>
         <br />
@@ -172,7 +181,10 @@ Persist alarm data using SharedPreferences. You can read detailed information in
     <tr>
       <td>
         <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/SpaceElement-Thumbnail.png?raw=true" alt="SpaceElement Cover" />
-        <h3>SpaceElement</h3>
+        <h3>SpaceElement
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
         <p>Ignite your cosmic curiosity with this captivating app that brings the wonders of outer space to your fingertips. Explore, learn, and play with stunning visuals, interactive tours, and engaging quizzes. Embark on a journey through the universe without leaving your device</p>
         <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/SpaceElement">README</a>.
         </p>
@@ -201,7 +213,10 @@ Persist alarm data using SharedPreferences. You can read detailed information in
     <tr>
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Acadify-Thumbnail.png" alt="Acadify Cover" />
-        <h3>Acadify</h3>
+        <h3>Acadify
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
         <p>An innovative online course app that brings the world of education to your fingertips</p>
         <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/Acadify">README</a>.
         </p>
@@ -230,8 +245,8 @@ Persist alarm data using SharedPreferences. You can read detailed information in
     <tr>
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
-        <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials</h3>
-        <p>🎥 <a href="">Watch Demo Video</a></p>
+<h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"/></h3>
+	      <p>🎥 <a href="">Watch Demo Video</a></p>
         <p>
           JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
         </p>
@@ -306,7 +321,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 ---
 
 
-## Client Projects And Personal Apps on The Stores And Vault
+## Client Projects And Private Apps on The Stores And Vault
 
 
 <table>
@@ -366,7 +381,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
   		<tr>
 			<td>
 <img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
-<h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/></h3>
+<h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
 				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
 				
 ### Features
