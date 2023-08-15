@@ -378,17 +378,45 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 			</div>
 			</td>
 		</tr>
+  <!-- SafeCast-Project -->
   		<tr>
 			<td>
-<!-- SafeCast-Project -->
 <h3>SafeCast<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
-<p>Encrypted Custom Video Player for Secure course based eLearning App</p>
+<p>Encrypted Custom Video Player for Secure Course-based eLearning App</p>
 
 <p>🗓14 May 2023 - 15 May 2023 (~1 day+)</p>
 			</td>
 			<td>
 			<div>
 🔗 <a href="null">Website</a>
+			</div>
+			</td>
+		</tr>
+    <!-- VerifyME-Project -->
+  		<tr>
+			<td>
+<h3>VerifyME<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
+<p>Unable to reveal any details prior to the launch</p>
+
+<p>🗓16 June 2023 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+	<p>Coming Soon...</p>
+			</div>
+			</td>
+		</tr>
+      <!-- CelebriLink-Project -->
+  		<tr>
+			<td>
+<h3>CelebriLink<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PrivateP.png" alt="Private-Project-Tag"/></h3>
+<p>Unable to reveal any details prior to the launch</p>
+
+<p>🗓3 August 2023 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+	<p>Coming Soon...</p>
 			</div>
 			</td>
 		</tr>
@@ -400,12 +428,12 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 0xAdiyat in a nutshell...  
 ```javascript
 const anon = {
   pronouns: "he" | "him",
   code: [Java, Dart, C, Typescript, HTML, Python],
-  tools: [Vim, Android Studio, Visual Studio Code, Intellij IDEA, STS(SpringToolSuite4), Eclipse, Sublime Text 3],
+  tools: [Vim, Android Studio, Visual Studio Code, IntelliJ IDEA, STS(SpringToolSuite4), Eclipse, Sublime Text 3],
   frameworks: [Flutter, Spring, .NET],
   servers: [Apache, Ngnix],
   database: [MySQL, Firebase],
@@ -422,8 +450,6 @@ const anon = {
  challenge: "Learning DSA :D"
 }
 ```
-
-</p>	
 
 <div align="center">
 <b>Show some 🤍</b> by starring some of the repositories! :)</b>
