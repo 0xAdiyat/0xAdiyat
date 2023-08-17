@@ -11,10 +11,34 @@
 <!-- Visitor count section -->
 <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Adiyat's profile views" /> </p>
 
-<!-- Introduction -->
-<p>An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise.</p>
+```Ruby
+class DeveloperIntroduction
+  attr_accessor :name, :experience, :description, :current_activities, :learning, :ask_me, :contact, :pronouns, :fun_fact
 
-<p>I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings.</p>
+  def initialize
+    @name = "Ahsaf Hussain Adiyat"
+    @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise."
+    @description = "I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
+    @current_activities = [
+	"See below👇🏻",
+    ]
+    @learning = "🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!"
+    @ask_me = "💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍"
+    @contact = {
+      email: "0xAdiyat@gmail.com",
+      twitter: "https://twitter.com/0xAdiyat",
+      linkedIn: "https://www.linkedin.com/in/0xAdiyat/",
+      facebook: "https://www.facebook.com/0xAdiyat/"
+    }
+    @pronouns = "He/Him 👩🏻‍💻"
+    @fun_fact = "⚡ Fun fact: I have diverse skills & interests"
+  end
+end
+
+intro = DeveloperIntroduction.new
+puts intro.inspect
+```
+<br>
 
 <!-- Current activities -->
 <ul>
@@ -28,23 +52,8 @@
       <li>Lots of half-finished side projects 👀 (Guilty!)</li>
     </ul>
   </li>
-  <li>🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!</li>
-  <li>💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍</li>
 </ul>
 
-<!-- Contact information -->
-<p>📫 How to reach me:
-  <ul>
-    <li>Email: 0xAdiyat@gmail.com</li>
-    <li><a href="https://twitter.com/0xAdiyat">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/0xAdiyat/">LinkedIn</a></li>
-    <li><a href="https://www.facebook.com/0xAdiyat/">Facebook</a></li>
-  </ul>
-</p>
-
-<!-- Additional info -->
-<p>😄 Pronouns: He/Him 👩🏻‍💻<br />
-⚡ Fun fact: I have diverse skills & interests</p>
 <br>
 
 <!-- GitHub stats and streaks -->
