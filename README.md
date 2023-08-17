@@ -13,7 +13,7 @@
 
 ```Ruby
 class DeveloperIntroduction
-  attr_accessor :name, :experience, :description, :current_activities, :learning, :ask_me, :contact, :pronouns, :fun_fact, :tools, :tech_communities
+  attr_accessor :name, :experience, :description, :current_activities, :learning, :tools, :tech_communities, :ask_me, :contact, :pronouns, :fun_fact
 
   def initialize
     @name = "Ahsaf Hussain Adiyat"
@@ -28,8 +28,8 @@ class DeveloperIntroduction
       software_developer: "Zenith.dev",
       android_and_ios_app_developer: "TarunSoft(PVT) Limited",
       speaker: "Zenith.dev",
-      mentor: "Zenith.dev, GHHC",
-      admin: "Gray Hat Hacker's Community(GHHC), Paradoxical Squad(PHS)"
+      mentor: ["Zenith.dev", "GHHC"],
+      admin: ["Gray Hat Hacker's Community(GHHC)", "Paradoxical Squad(PHS)"]
     }
     @ask_me = "💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍"
     @contact = {
