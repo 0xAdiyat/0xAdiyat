@@ -13,16 +13,24 @@
 
 ```Ruby
 class DeveloperIntroduction
-  attr_accessor :name, :experience, :description, :current_activities, :learning, :ask_me, :contact, :pronouns, :fun_fact
+  attr_accessor :name, :experience, :description, :current_activities, :learning, :ask_me, :contact, :pronouns, :fun_fact, :tools, :tech_communities
 
   def initialize
     @name = "Ahsaf Hussain Adiyat"
     @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise."
     @description = "I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
     @current_activities = [
-	"See below👇🏻",
+      "See below👇🏻",
     ]
     @learning = "🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!"
+    @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
+    @tech_communities = {
+      software_developer: "Zenith.dev",
+      android_and_ios_app_developer: "TarunSoft(PVT) Limited",
+      speaker: "Zenith.dev",
+      mentor: "Zenith.dev, GHHC",
+      admin: "Gray Hat Hacker's Community(GHHC), Paradoxical Squad(PHS)"
+    }
     @ask_me = "💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍"
     @contact = {
       email: "0xAdiyat@gmail.com",
@@ -467,33 +475,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	</tbody>
 </table>
 
----
-
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 0xAdiyat in a nutshell...  
-```javascript
-const anon = {
-  pronouns: "he" | "him",
-  code: [Java, Dart, C, Typescript, HTML, Python],
-  tools: [Vim, Android Studio, Visual Studio Code, IntelliJ IDEA, STS(SpringToolSuite4), Eclipse, Sublime Text 3],
-  frameworks: [Flutter, Spring, .NET],
-  servers: [Apache, Ngnix],
-  database: [MySQL, Firebase],
-  hosting: [Firebase, AWS, Azure],
-  design: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe XD,
-  	  Canva, Blender, Figma, Gimp, Krita, Inkscape, Photopea],
-  techCommunities: {
-  			software_developer: "Zenith.dev",
-			android_and_ios_app_developer: "TarunSoft(PVT) Limited",
-                        speaker: "Zenith.dev",
-                        mentor: "Zenith.dev, GHHC",
-	  		admin: "Gray Hat Hacker's Community(GHHC), Paradoxical Squad(PHS)"
-                      },
- challenge: "Learning DSA :D"
-}
-```
+<br>
 
 <div align="center">
 <b>Show some 🤍</b> by starring some of the repositories! :)</b>
