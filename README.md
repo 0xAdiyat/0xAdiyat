@@ -83,13 +83,13 @@
 * Apply badge and labels
       </td>
       <td>
-		<p>🔗 <a href="https://github.com/Huss4in007/ToDo-WishFlow/blob/master/flutter-apk/ToDo%20-%20WishFlow.apk">Download Latest Release</a></p>
-<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ToDo-WishFlow v1.0.1" />
+		<p>🔗 <a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/download/v1.0.2/ToDo-WishFlow.v1.0.2.apk">Download Latest Release</a></p>
+<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.2">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ToDo-WishFlow v1.0.2" />
 </a>
 <br />
-<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ToDo-WishFlow v1.0.1" />
+<a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.2">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ToDo-WishFlow v1.0.2" />
 </a>
 <br />
 <spacer>
