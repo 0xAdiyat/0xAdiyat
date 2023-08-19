@@ -1,5 +1,3 @@
-<a name="0xAdiyat-top"></a>
-
 <!-- Header section -->
 <h2 align="center">
   <samp>&gt; Hey There, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -9,6 +7,9 @@
   <b><a target="_blank" href="https://www.facebook.com/Huss4in007/">Ahsaf Hussain Adiyat</a></b>
   </samp>
 </h2>
+
+<a name="0xAdiyat-top"></a>
+
 
 <!-- Visitor count section -->
 <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Adiyat's profile views" /> </p>
