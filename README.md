@@ -1,3 +1,5 @@
+<a name="0xAdiyat-top"></a>
+
 <!-- Header section -->
 <h2 align="center">
   <samp>&gt; Hey There, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -479,6 +481,8 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 </table>
 
 <br>
+
+<p align="right">● <a href="#0xAdiyat-top">back to top</a></p>
 
 <div align="center">
 <b>Show some 🤍</b> by starring some of the repositories! :)</b>
