@@ -485,6 +485,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 
 <p align="right">● <a href="#0xAdiyat-top">back to top</a></p>
 
+<br>
 <div align="center">
 <b>Show some 🤍</b> by starring some of the repositories! :)</b>
 </div>
