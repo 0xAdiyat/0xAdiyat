@@ -101,6 +101,10 @@ puts intro.inspect
       </td>
       <td>
 		<p>🔗 <a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/download/v1.0.2/ToDo-WishFlow.v1.0.2.apk">Download Latest Release</a></p>
+<a href="https://apt.izzysoft.de/fdroid/index/apk/com.anon007.todo_wishflow/">
+  <img width="200px" src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Download on the IzzyOnDroid" />
+</a>
+<br/>
 <a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.2">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ToDo-WishFlow v1.0.2" />
 </a>
@@ -108,7 +112,6 @@ puts intro.inspect
 <a href="https://github.com/0xAdiyat/ToDo-WishFlow/releases/tag/v1.0.2">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ToDo-WishFlow v1.0.2" />
 </a>
-<br />
 <spacer>
 <h4>Source code</h4>
         <div>
@@ -361,7 +364,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		</td>
 		<td>
 			<div>
-				<a href="https://github.com/0xAdiyat/PrivateAppVault/blob/main/app-release-beta-V1.apk">
+				<a href="https://github.com/0xAdiyat/PrivateAppVault/blob/main/Travel-Story-V1.apk">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Travel-Story on Google Play" />
 </a>
 			</div>
