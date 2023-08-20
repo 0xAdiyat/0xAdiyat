@@ -176,6 +176,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
+	      	      <p>🎥 <a href="https://www.youtube.com/shorts/9uPqwD_mANM">Watch Demo Video</a></p>
         <p>At the rate of Connectify - A Threads Clone in short @Connectify is a Threads app clone. Currently, it just has the feed screen design along with the special refresh indicator which the Threads app has</p>
         <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">README</a>.
         </p>
@@ -269,7 +270,6 @@ Persist alarm data using SharedPreferences. You can read detailed information in
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/jetninja_ss.jpg" alt="JetNinja - Unlock JetBrains IDEs with Unlimited Trials" />
 <h3>JetNinja - Unlock JetBrains IDEs with Unlimited Trials<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"/></h3>
-	      <p>🎥 <a href="">Watch Demo Video</a></p>
         <p>
           JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
         </p>
