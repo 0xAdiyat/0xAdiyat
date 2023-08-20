@@ -405,8 +405,6 @@ Persist alarm data using SharedPreferences. You can read detailed information in
   <!-- GHHC-HACBAR-Project -->
  	<tr>
 		<td>
-<div style="display: flex; align-items: center;">
-<img width="615px" src="https://github.com/0xAdiyat/GHHC-HACKBAR/assets/67780459/04742ca1-9a1a-449b-b521-a76ff24cb70e" />
 			</div>
   <h3>GHHC-HACKBAR
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"  />
