@@ -77,6 +77,44 @@ puts intro.inspect
 
 <table>
   <tbody>
+	      <!-- CoinPulse-Wallet-UI-Kit Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://user-images.githubusercontent.com/67780459/268291286-d93b9534-a806-4f9f-bd8c-ab4846ce0280.png" alt="CoinPulse-Wallet-UI-Kit Cover" />
+	      <h3>CoinPulse-Wallet
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+	      	      <p>🎥 <a href="https://youtube.com/shorts/NhkkWebUV38">Watch Demo Video</a></p>
+        <p>A Flutter-based crypto wallet UI Kit with cool looking Tri-Circular Wheel Navbar</p>
+	<b>You might love it fr bcz of its unique animation and design.
+Currently it has two screens which are:<b/>
+	
+* Exchange Screen
+* Deposit Screen
+
+<p>You can read detailed information in the <a href="https://github.com/0xAdiyat/CoinPulse-UI-Kit">README</a>.</p>
+        <br />
+      </td>
+      <td>
+		<p>🔗 <a href="">Download Beta-Release</a></p>
+<a href="">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="CoinPulse-UI-Kit Beta-Release-V1.0" />
+</a>
+<br />
+<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="CoinPulse-UI-Kit Beta-Release-V1.0" />
+</a>
+<br />
+<spacer>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/CoinPulse-UI-Kit">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=CoinPulse-UI-Kit&theme=dracula"alt="CoinPulse-UI-Kit Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
     <!-- ToDo-WishFlow project -->
     <tr>
       <th>Project</th>
@@ -86,16 +124,14 @@ puts intro.inspect
       <td>
         <img width="600px" src="https://github.com/Huss4in007/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
 	      <h3>ToDo-WishFlow
-  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
         <p>A Flutter-based ToDo app made with GetX Package</p>
         <p>
           Create tasks and track your daily life easily. Built with Flutter and used GitX Package. You can read detailed information in the <a href="https://github.com/0xAdiyat/ToDo-WishFlow">README</a>.
         </p>
-        <br />
-
-       
+        <br/>
 📃<b>Features</b>
 * Organize your life
 * Add tasks and lists with the To Do widget
@@ -129,7 +165,7 @@ puts intro.inspect
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/ese-porchi-arrived-demo-thumbnail.png" alt="EsePorchi-Arrived Cover" />
 	<h3>EsePorchi-Arrived
-  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
 	      <p>A Flutter mobile application that helps users set alarms for specific destinations and receive notifications when they reach those destinations</p>
@@ -173,7 +209,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
       <td>
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/connectify-thumbnail.png" alt="@Connectfy Cover" />
 	      <h3>@Connectify
-  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
 	      	      <p>🎥 <a href="https://www.youtube.com/shorts/9uPqwD_mANM">Watch Demo Video</a></p>
@@ -206,7 +242,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
       <td>
         <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/SpaceElement-Thumbnail.png?raw=true" alt="SpaceElement Cover" />
         <h3>SpaceElement
-  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
         <p>Ignite your cosmic curiosity with this captivating app that brings the wonders of outer space to your fingertips. Explore, learn, and play with stunning visuals, interactive tours, and engaging quizzes. Embark on a journey through the universe without leaving your device</p>
