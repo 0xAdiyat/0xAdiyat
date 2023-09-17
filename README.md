@@ -275,7 +275,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Acadify-Thumbnail.png" alt="Acadify Cover" />
         <h3>Acadify
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
-  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"/>
 </h3>
         <p>An innovative online course app that brings the world of education to your fingertips</p>
         <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/Acadify">README</a>.
@@ -297,6 +297,27 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <div>
           <a href="https://github.com/0xAdiyat/Acadify">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula"alt="Acadify Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+	    <!-- Flutterify project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xAdiyat/Flutterify/assets/67780459/c25ac6cc-981b-43af-88da-54a76025617d" alt="Flutterify" />
+<h3>Flutterify<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Private-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"/></h3>
+        <p>
+          Flutterify is a powerful command-line interface (CLI) tool that simplifies the process of creating and deploying Flutter projects. Whether you're a seasoned developer or just getting started with Flutter, Flutterify streamlines the setup and configuration, allowing you to focus on building amazing Flutter apps.
+        </p>
+        <p>📃 <a href="https://github.com/0xAdiyat/Flutterify">You can view the source code here</a></p>
+      </td>
+      <td>
+        <p>🔗 <a href="https://raw.githubusercontent.com/0xAdiyat/Flutterify/main/src/flutterify.py">Get latest release</a></p>
+        <h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/Flutterify">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Flutterify&theme=dracula" alt="Flutterify Repo" />
           </a>
         </div>
       </td>
