@@ -88,25 +88,17 @@ puts intro.inspect
 	      	      <p>🎥 <a href="https://youtube.com/shorts/NhkkWebUV38">Watch Demo Video</a></p>
         <p>A Flutter-based crypto wallet UI Kit with cool looking Tri-Circular Wheel Navbar</p>
 	<b>You might love it fr bcz of its unique animation and design.
-Currently it has two screens which are:<b/>
+Currently it has two screens which are:</b>
 	
 * Exchange Screen
 * Deposit Screen
 
 <p>You can read detailed information in the <a href="https://github.com/0xAdiyat/CoinPulse-UI-Kit">README</a>.</p>
-        <br />
+        <br/>
       </td>
       <td>
-		<p>🔗 <a href="">Download Beta-Release</a></p>
-<a href="">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="CoinPulse-UI-Kit Beta-Release-V1.0" />
-</a>
-<br />
-<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify/releases/tag/v1">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="CoinPulse-UI-Kit Beta-Release-V1.0" />
-</a>
-<br />
-<spacer>
+
+<br>
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/CoinPulse-UI-Kit">
@@ -131,8 +123,10 @@ Currently it has two screens which are:<b/>
         <p>
           Create tasks and track your daily life easily. Built with Flutter and used GitX Package. You can read detailed information in the <a href="https://github.com/0xAdiyat/ToDo-WishFlow">README</a>.
         </p>
-        <br/>
+        <br>
+	      
 📃<b>Features</b>
+	      
 * Organize your life
 * Add tasks and lists with the To Do widget
 * Daily organizer personalized with bold and colorful ui
