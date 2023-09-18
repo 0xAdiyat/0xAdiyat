@@ -77,7 +77,11 @@ puts intro.inspect
 
 <table>
   <tbody>
-	      <!-- CoinPulse-Wallet-UI-Kit Project -->
+    <tr>
+      <th>Project</th>
+      <th width="35%">Links</th>
+    </tr>
+	  	      <!-- CoinPulse-Wallet-UI-Kit Project -->
     <tr>
       <td>
         <img width="600px" src="https://user-images.githubusercontent.com/67780459/268291286-d93b9534-a806-4f9f-bd8c-ab4846ce0280.png" alt="CoinPulse-Wallet-UI-Kit Cover" />
@@ -107,11 +111,7 @@ Currently it has two screens which are:</b>
         </div>
       </td>
     </tr>
-    <!-- ToDo-WishFlow project -->
-    <tr>
-      <th>Project</th>
-      <th width="35%">Links</th>
-    </tr>
+        <!-- ToDo-WishFlow project -->
     <tr>
       <td>
         <img width="600px" src="https://github.com/Huss4in007/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
