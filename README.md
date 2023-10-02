@@ -77,15 +77,13 @@ puts intro.inspect
 
 <br>
 
+
 <!-- GitHub stats and streaks -->
-<table>
-  <td>
- <img width="500" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
-  </td>
-  <td>
- 
-  <img width="520" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />  </td>
-</table>
+<div style="display: flex; align-items: center;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
+  <img width="47.45%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
+</div>
+
 
 ## Open Source Projects
 
