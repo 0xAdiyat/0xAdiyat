@@ -51,6 +51,16 @@ puts intro.inspect
 ```
 <br>
 
+
+
+
+<table>
+	<!-- DevCard -->
+  <td>
+<a href="https://app.daily.dev/0xAdiyat"><img src="https://api.daily.dev/devcards/417d623082804ddf9bc175f9409a0353.png?r=dkq" width="450" alt="Ahsaf Hussain Adiyat's Dev Card"/></a>
+  </td>
+  <td>
+
 <!-- Current activities -->
 <ul>
   <li>🔭 I’m currently working on
@@ -64,6 +74,8 @@ puts intro.inspect
     </ul>
   </li>
 </ul>
+  </td>
+</table>
 
 <br>
 
