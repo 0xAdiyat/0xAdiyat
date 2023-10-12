@@ -60,7 +60,7 @@ puts intro.inspect
 
 <!-- Current activities -->
 <ul>
-  <li>🔭 I’m currently working on
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F75C7E&vCenter=true&repeat=false&random=false&width=485&lines=%F0%9F%94%AD+I'm+currently+working+on" alt="Typing SVG" /></a>
     <ul>
       <li><a href="#open-source-projects">Open source projects 👇🏼</a></li>
       <li><a href="#making-tutorials">Making tutorials 👇🏼</a></li>
