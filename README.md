@@ -1,12 +1,11 @@
+<p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
+
+
 <!-- Header section -->
-<h2 align="center">
-  <samp>&gt; Hey There, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-   alt="Waving hand animated gif"
-   height="30"
-   width="30" /> I am
-  <b><a target="_blank" href="https://www.facebook.com/Huss4in007/">Ahsaf Hussain Adiyat</a></b>
-  </samp>
-</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&repeat=false&random=false&width=495&lines=%3E%3E+Hey+there%2C+I'm+Ahsaf+Hussain+Adiyat" alt="Typing SVG" /></a>
+</p>
+  
 
 <a name="0xAdiyat-top"></a>
 
