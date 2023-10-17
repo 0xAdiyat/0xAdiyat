@@ -27,10 +27,10 @@ class DeveloperIntroduction
     @learning = "🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!"
     @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
     @tech_communities = {
-      software_developer: "Zenith.dev",
+      software_developer: "Fhixa.com",
       android_and_ios_app_developer: "TarunSoft(PVT) Limited",
-      speaker: "Zenith.dev",
-      mentor: ["Zenith.dev", "GHHC"],
+      speaker: "Fhixa.com",
+      mentor: ["Fhixa.com", "GHHC"],
       admin: ["Gray Hat Hacker's Community(GHHC)", "Paradoxical Squad(PHS)"]
     }
     @ask_me = "💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍"
@@ -335,14 +335,14 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <p>
           JetNinja is a command-line interface (CLI) tool that automates the process of obtaining unlimited free trial accounts for all JetBrains IDEs. With JetNinja, developers can effortlessly explore the extensive features and capabilities of JetBrain's suite of IDEs without any limitations.
         </p>
-        <p>📃 <a href="https://github.com/ZenithSuite/JetNinja">You can view the source code here</a></p>
+        <p>📃 <a href="https://github.com/Fhixa/JetNinja">You can view the source code here</a></p>
       </td>
       <td>
-        <p>🔗 <a href="https://github.com/ZenithSuite/JetNinja/releases/download/JetNinjaV1/JetNinja.Beta.Release.-.Version.1.0.jar">Get latest release</a></p>
+        <p>🔗 <a href="https://github.com/Fhixa/JetNinja/releases/download/JetNinjaV1/JetNinja.Beta.Release.-.Version.1.0.jar">Get latest release</a></p>
         <h4>Source code</h4>
         <div>
-          <a href="https://github.com/ZenithSuite/JetNinja/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithSuite&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
+          <a href="https://github.com/Fhixa/JetNinja/">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fhixa&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
           </a>
         </div>
       </td>
