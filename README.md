@@ -95,7 +95,7 @@ puts intro.inspect
 	  	      <!-- CoinPulse-Wallet-UI-Kit Project -->
     <tr>
       <td>
-        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/06b31ce0-e373-4714-a11c-aec46faa114a" alt="CoinPulse-Wallet-UI-Kit Cover" />
+        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/9de94f78-d50e-4fd1-8046-ca046107ec36" alt="CoinPulse-Wallet-UI-Kit Cover" />
 	      <h3>CoinPulse-Wallet
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
