@@ -245,7 +245,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	    <!-- SpaceElement Project -->
     <tr>
       <td>
-        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/SpaceElement-Thumbnail.png?raw=true" alt="SpaceElement Cover" />
+        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/94da7faf-54b8-40b3-bc62-c1f124a7bf3c" alt="SpaceElement Cover" />
         <h3>SpaceElement
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
