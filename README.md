@@ -379,14 +379,14 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/0xAdiyat/Acadify">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula" alt="Acadify" />
-				</a>
-			</td>
-			<td>
 				<a href="https://github.com/0xAdiyat/SpaceElement">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula" alt="SpaceElement" />
 				</a>
+			</td>
+			<td>
+			<a href="https://github.com/0xAdiyat/Acadify">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula" alt="Acadify" />
+				</a>	
 			</td>
 		</tr>
 		<tr>
