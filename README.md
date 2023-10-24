@@ -444,7 +444,6 @@ Persist alarm data using SharedPreferences. You can read detailed information in
  <!-- ClockMeOn-Project -->
 		<tr>
 			<td>
-<img width="615px" style="border-radius: 10px;" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/clock-me-on-thumbnail.png" />
 <h3>ClockMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
 				<p>A staff identification and shift management application built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
 				
@@ -457,6 +456,28 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 - Cross-platform: Developed using Flutter, allowing for deployment on both iOS and Android devices.
 
 <p>🗓29 June 2023 - 5 July 2023 (~1 week+)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="upwork.com">Website</a>
+			</div>
+			</td>
+		</tr>
+   <!-- RoasterMeOn-Project -->
+		<tr>
+			<td>
+<h3>RoasterMeOn <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
+				<p> Is your online staff scheduling solutions for all your staff rostering needs built with Flutter. I worked on this app as a Freelance Flutter Developer</p>
+				
+### Features
+- Roster Me On's job-centric approach for creating staff schedules.
+- The ability for users to start or finish a shift using GPS location.
+- Comparison of user GPS location with the company's location as a global variable.
+- Sending staff ID, time, and date to a cloud database via a REST API endpoint.
+- Receiving an integer indicating whether a new shift has started or an existing shift has finished.
+- Displaying messages to the user: "Your shift has been started" or "Your shift has been completed."
+
+<p>🗓28 Aug 2023 - 5 Oct 2023 (~1 month+)</p>
 			</td>
 			<td>
 			<div>
