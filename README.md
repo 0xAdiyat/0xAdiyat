@@ -212,7 +212,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
     <!-- @Connectify Project -->
     <tr>
       <td>
-        <img width="600px" src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/connectify-thumbnail.png" alt="@Connectfy Cover" />
+        <img width="600px" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/4d06fd90-2bcf-4562-ac31-97c890c4be6e" alt="@Connectfy Cover" />
 	      <h3>@Connectify
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
@@ -363,10 +363,10 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/@Connectify-FeedScreen-Refresh-Loading-Animation.gif?raw=true" alt="Threads app Refresh Indicator"></img>
+				<img src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/4d06fd90-2bcf-4562-ac31-97c890c4be6e" alt="Threads app Refresh Indicator"></img>
 			</td>
 			<td>
-				<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/SpaceElement.png" alt="SpaceElement"></img>
+				<img src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/94da7faf-54b8-40b3-bc62-c1f124a7bf3c" alt="SpaceElement"></img>
 			</td>
 			<td>
 			<img src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Acadify.png?raw=true" alt="Acadify"></img>
