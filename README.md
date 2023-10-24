@@ -419,8 +419,8 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	<tr>
 		<td>
 <div style="display: flex; align-items: center;">
+		<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/fdb68a68-f083-486e-88fd-3010afa98c4c" alt="Travel Story - Enhanced Profile Screen with a Sleek, Modern Design" />
 				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/travel_story_thumbnail.png?raw=true" alt="Travel-Story-Thumbnail" />
-				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Travel%20Story%20-%20Enhanced%20Profile%20Screen%20with%20a%20Sleek,%20Modern%20Design.png?raw=true" alt="Travel Story - Enhanced Profile Screen with a Sleek, Modern Design" />
 				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Travel%20Story%20-%20Revamped%20Sign-Up%20and%20Login%20UI%20with%20a%20Modern,%20User-Friendly%20Design.png?raw=true" alt="Travel Story - Revamped Sign-Up and Login UI with a Modern, User-Friendly Design" />
 			</div>
 <h3>Travel-Story <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
