@@ -122,6 +122,32 @@ Currently it has two screens which are:</b>
         </div>
       </td>
     </tr>
+	  	      <!-- STYLEsnap Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xAdiyat/STYLEsnap/assets/67780459/a5c15b30-125e-4052-a868-9854766e620a" alt="STYLEsnap Cover" />
+<h3>STYLEsnap - The Fashion AI
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+	      	      <p>🎥 <a href="https://youtu.be/TemisXFWeQw">Watch Tutorial Video</a></p>
+        <p>A Flutter-based AI Driven Virtual stylist in your pocket. Snap your style, get inspired.</p>
+	Meet STYLEsnap, your new AI fashion BFF who always has your best look in mind. No more outfit anxiety or endless scrolling for inspiration—STYLEsnap is here to make your style journey a breeze. Snap a photo, and let STYLEsnap analyze your body proportions, style preferences, and the occasion to curate personalized outfit recommendations that perfectly suit your unique taste. Get ready to unlock endless style possibilities and discover a wardrobe that truly reflects your best self.
+
+<p>You can read detailed information in the <a href="https://github.com/0xAdiyat/STYLEsnap/">README</a>.</p>
+        <br/>
+      </td>
+      <td>
+
+<br>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/STYLEsnap">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=STYLEsnap&theme=dracula"alt="STYLEsnap Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
         <!-- ToDo-WishFlow project -->
     <tr>
       <td>
