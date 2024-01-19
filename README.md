@@ -25,7 +25,7 @@ class DeveloperIntroduction
       "See below👇🏻",
     ]
     @learning = "🌱 I’m currently learning everything I can find about Flutter/SwiftUI/Java/Swift/Spring-Boot 🤍, the learning never stops!"
-    @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", Xcode,"STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
+    @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "Xcode", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
     @tech_communities = {
       software_developer: "Fhixa.com",
       android_and_ios_app_developer: "TarunSoft(PVT) Limited",
