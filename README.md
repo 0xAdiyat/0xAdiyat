@@ -19,13 +19,13 @@ class DeveloperIntroduction
 
   def initialize
     @name = "Ahsaf Hussain Adiyat"
-    @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 3.5 years of industry expertise."
+    @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 4 years of industry expertise."
     @description = "I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
     @current_activities = [
       "See below👇🏻",
     ]
-    @learning = "🌱 I’m currently learning everything I can find about Flutter/Java/Spring-Boot 🤍, the learning never stops!"
-    @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
+    @learning = "🌱 I’m currently learning everything I can find about Flutter/SwiftUI/Java/Swift/Spring-Boot 🤍, the learning never stops!"
+    @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", Xcode,"STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
     @tech_communities = {
       software_developer: "Fhixa.com",
       android_and_ios_app_developer: "TarunSoft(PVT) Limited",
@@ -424,6 +424,29 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 			</td>
 			<td>
 				🔗 <a href="null">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>SwiftUI-Weather-App</th>
+		</tr>
+		<tr>
+			<td> 
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<a href="https://github.com/0xAdiyat/SwiftUI-Playground">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SwiftUI-Playground&theme=dracula" alt="SwiftUI-Weather-App" />
+				</a>	
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://x.com/0xAdiyat/status/1746834054652297640">Tweet</a>
 			</td>
 		</tr>
 	</tbody>
