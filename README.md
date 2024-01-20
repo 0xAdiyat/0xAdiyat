@@ -435,6 +435,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		</tr>
 		<tr>
 			<td> 
+								<img src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/100db6cf-64eb-4901-91a5-f58b221e6f76" alt="SWIFTUI-WEATHER-APP-MOCKUP"></img>
 			</td>
 		</tr>
 		<tr>
