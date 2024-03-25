@@ -92,6 +92,29 @@ puts intro.inspect
       <th>Project</th>
       <th width="35%">Links</th>
     </tr>
+   	  	      <!-- Dialogix Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xAdiyat/Dialogix/assets/67780459/23f6cdb4-81e9-4341-b388-c84b1ca3c004" alt="Dialogix Cover" />
+	      <h3>Dialogix
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
+  <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+        <p>A Flutter-based Social app that provides a platform for community-driven discussions and content sharing.</p>
+<p>You can read detailed information in the <a href="https://github.com/0xAdiyat/Dialogix">README</a>.</p>
+        <br/>
+      </td>
+      <td>
+
+<br>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xAdiyat/Dialogix">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Dialogix&theme=dracula"alt="Dialogix Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
 	  	      <!-- CoinPulse-Wallet-UI-Kit Project -->
     <tr>
       <td>
@@ -102,8 +125,8 @@ puts intro.inspect
 </h3>
 	      	      <p>🎥 <a href="https://youtube.com/shorts/NhkkWebUV38">Watch Demo Video</a></p>
         <p>A Flutter-based crypto wallet UI Kit with cool looking Tri-Circular Wheel Navbar</p>
-	<b>You might love it fr bcz of its unique animation and design.
-Currently it has two screens which are:</b>
+	<b>You might love it bcz of its unique animation and design.
+Currently, it has two screens which are:</b>
 	
 * Exchange Screen
 * Deposit Screen
