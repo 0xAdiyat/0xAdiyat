@@ -491,7 +491,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <!-- Travel-Story-Project -->
 	<tr>
 		<td>
-<img width="600px" alt="Thumbnail 4_3 - TravelStory - Rounded" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/f6323f66-f15f-4b20-abc9-c6d3e72e6a79">
+<img width="740px" alt="Thumbnail 4_3 - TravelStory - Rounded" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/f6323f66-f15f-4b20-abc9-c6d3e72e6a79">
 <h3>Travel-Story <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
 			<p>Unleash the Power of Your Travel Tales app built with Flutter. I worked on this app as the only Flutter Developer</a></p>
 			<p>🗓 December 2022 - 1 January (~1 month)</p>
