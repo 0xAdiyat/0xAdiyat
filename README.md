@@ -1,4 +1,4 @@
-<p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
+![Thumbnail 4_3 - Travel App Flyer - Upwork](https://github.com/0xAdiyat/0xAdiyat/assets/67780459/0a32a317-7267-4714-8acb-20d3495255e0)<p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
 
 
 <!-- Header section -->
@@ -20,7 +20,7 @@ class DeveloperIntroduction
   def initialize
     @name = "Ahsaf Hussain Adiyat"
     @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 4 years of industry expertise."
-    @description = "I'm an ardent learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
+    @description = "I'm a lifetime learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
     @current_activities = [
       "See below👇🏻",
     ]
@@ -33,7 +33,7 @@ class DeveloperIntroduction
       mentor: ["Fhixa.com", "GHHC"],
       admin: ["Gray Hat Hacker's Community(GHHC)", "Paradoxical Squad(PHS)"]
     }
-    @ask_me = "💬 Ask me about anything regarding Flutter & Java/Spring-Boot 🤍"
+    @ask_me = "💬 Ask me about anything regarding Flutter, SwiftUI & Java/Spring-Boot 🤍"
     @contact = {
       email: "0xAdiyat@gmail.com",
       twitter: "https://twitter.com/0xAdiyat",
@@ -491,11 +491,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <!-- Travel-Story-Project -->
 	<tr>
 		<td>
-<div style="display: flex; align-items: center;">
-		<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/fdb68a68-f083-486e-88fd-3010afa98c4c" alt="Travel Story - Enhanced Profile Screen with a Sleek, Modern Design" />
-				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/travel_story_thumbnail.png?raw=true" alt="Travel-Story-Thumbnail" />
-				<img width="200px" style="border-radius: 10px;" src="https://github.com/0xAdiyat/0xAdiyat/blob/main/assets/Travel%20Story%20-%20Revamped%20Sign-Up%20and%20Login%20UI%20with%20a%20Modern,%20User-Friendly%20Design.png?raw=true" alt="Travel Story - Revamped Sign-Up and Login UI with a Modern, User-Friendly Design" />
-			</div>
+<img width="600px" alt="Thumbnail 4_3 - TravelStory - Rounded" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/f6323f66-f15f-4b20-abc9-c6d3e72e6a79">
 <h3>Travel-Story <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
 			<p>Unleash the Power of Your Travel Tales app built with Flutter. I worked on this app as the only Flutter Developer</a></p>
 			<p>🗓 December 2022 - 1 January (~1 month)</p>
