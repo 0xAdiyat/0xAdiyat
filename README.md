@@ -1,4 +1,4 @@
-![Thumbnail 4_3 - Travel App Flyer - Upwork](https://github.com/0xAdiyat/0xAdiyat/assets/67780459/0a32a317-7267-4714-8acb-20d3495255e0)<p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
+<p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
 
 
 <!-- Header section -->
