@@ -577,6 +577,34 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 			</div>
 			</td>
 		</tr>
+       <!-- LearNow-Project -->
+		<tr>
+			<td>
+<h3>LearNow <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
+				<p> is a computer Social E-Learning Flutter App. Details Can't be disclosed prior to launch.</p>
+
+<p>🗓7 May 2024 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="">Website</a>
+			</div>
+			</td>
+		</tr>
+    <!-- Onboarder-Project -->
+		<tr>
+			<td>
+<h3>Onboarder <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
+				<p> a complex back-office web app made with Flutter App. Details Can't be disclosed prior to launch.</p>
+
+<p>🗓26 May 2024 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="">Website</a>
+			</div>
+			</td>
+		</tr>
   <!-- GHHC-HACBAR-Project -->
  	<tr>
 		<td>
