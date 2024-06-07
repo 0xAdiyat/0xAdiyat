@@ -13,18 +13,26 @@
 <!-- Visitor count section -->
 <img src="https://visitcount.itsvg.in/api?id=0xAdiyat&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Adiyat's profile views" /> </p>
 
+
 ```Ruby
 class DeveloperIntroduction
   attr_accessor :name, :experience, :description, :current_activities, :learning, :tools, :tech_communities, :ask_me, :contact, :pronouns, :fun_fact
 
   def initialize
     @name = "Ahsaf Hussain Adiyat"
-    @experience = "An experienced Android and iOS developer pursuing Computer Science Engineering. My dedication to Android and iOS app development and research has garnered over 4 years of industry expertise."
-    @description = "I'm a lifetime learner, active programmer, and strong team manager with exceptional communication abilities. My passion for sharing knowledge is reflected in my writeups based on skill and learnings."
+    @experience = "Experienced Android and iOS developer with over 4 years in mobile app architecture."
+    @description = "Lifetime learner, active programmer, and strong team manager with exceptional communication skills. Passionate about sharing knowledge through writeups."
     @current_activities = [
-      "See below👇🏻",
+      "📱 4+ years in mobile app architecture",
+      "🤖 Worked on 4+ ML/AI startup mobile app projects",
+      "🚀 Developed 30+ apps for iOS and Android",
+      "🌐 Built 2 web apps with Flutter Web",
+      "🌟 Contributed to 3 top open-source projects with 5k+ GitHub stars combined",
+      "🎨 Improved UI/UX, increasing conversion rates by 20%",
+      "👥 Led teams, boosting development speed by 30%",
+      "🔧 1500+ open source contribution points"
     ]
-    @learning = "🌱 I’m currently learning everything I can find about Flutter/SwiftUI/Java/Swift/Spring-Boot 🤍, the learning never stops!"
+    @learning = "🌱 Currently learning Flutter, SwiftUI, Java, Swift, Spring-Boot, and primarily ML. The learning never stops!"
     @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "Xcode", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
     @tech_communities = {
       software_developer: "Fhixa.com",
@@ -41,13 +49,14 @@ class DeveloperIntroduction
       facebook: "https://www.facebook.com/0xAdiyat/"
     }
     @pronouns = "He/Him 👩🏻‍💻"
-    @fun_fact = "⚡ Fun fact: I have diverse skills & interests"
+    @fun_fact = "⚡ Fun fact: My code runs on coffee and creativity!"
   end
 end
 
 intro = DeveloperIntroduction.new
 puts intro.inspect
 ```
+
 <br>
 
 <!-- DevCard and Current activities -->
@@ -554,6 +563,20 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 			</div>
 			</td>
 		</tr>
+     <!-- TagMan-Project -->
+		<tr>
+			<td>
+<h3>TagMan <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
+				<p> is a computer vision centric Flutter AI App. Details Can't be disclosed prior to launch.</p>
+
+<p>🗓30 March 2024 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+🔗 <a href="upwork.com">Website</a>
+			</div>
+			</td>
+		</tr>
   <!-- GHHC-HACBAR-Project -->
  	<tr>
 		<td>
@@ -570,7 +593,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 - Added GHHC's Personal DIOS
 - Improved UI
 - Minor bug fixed
-<p>🗓22 May, 2021 - 26 May 2021 (~5 Days)</p>
+<p>🗓22 May 2021 - 26 May 2021 (~5 Days)</p>
 		</td>
 		<td>
 			<div>
@@ -621,6 +644,20 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <p>Unable to reveal any details prior to the launch</p>
 
 <p>🗓3 August 2023 - Present (~♾️ days)</p>
+			</td>
+			<td>
+			<div>
+	<p>Coming Soon...</p>
+			</div>
+			</td>
+		</tr>
+       <!-- StarringU-Project -->
+  		<tr>
+			<td>
+<h3>starringU<img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"/></h3>
+<p>starringU is a mobile application built with Flutter that utilizes AI to provide a humorous and informative narration of the user's surroundings, inspired by nature documentaries.</p>
+
+<p>🗓14 February 2024 - Present (~♾️ days)</p>
 			</td>
 			<td>
 			<div>
