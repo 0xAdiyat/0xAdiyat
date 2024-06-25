@@ -63,7 +63,9 @@ puts intro.inspect
 <table>
 	<!-- DevCard -->
   <td>
-<a href="https://app.daily.dev/0xAdiyat"><img src="https://api.daily.dev/devcards/417d623082804ddf9bc175f9409a0353.png?r=dkq" width="450" alt="Ahsaf Hussain Adiyat's Dev Card"/></a>
+	  
+<a href="https://app.daily.dev/0xadiyat"><img src="https://api.daily.dev/devcards/v2/Z0k9SfM9Bl6pplzPrv2wa.png?r=8ew" width="356" alt="Ahsaf Hussain Adiyat's Dev Card"/></a>
+  
   </td>
   <td>
 
