@@ -159,7 +159,7 @@ Currently, it has two screens which are:</b>
 	  	      <!-- STYLEsnap Project -->
     <tr>
       <td>
-        <img width="600px" src="https://github.com/user-attachments/assets/81f301e1-bbca-4afa-b259-caba695374a1" alt="STYLEsnap Cover" />
+        <img width="600px" src="https://github.com/user-attachments/assets/a8889816-1ac4-4e25-835d-d21b40c01409" alt="STYLEsnap Cover" />
 <h3>STYLEsnap - The Fashion AI
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
