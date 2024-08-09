@@ -44,7 +44,7 @@ class DeveloperIntroduction
     @ask_me = "💬 Ask me about anything regarding Flutter, SwiftUI & Java/Spring-Boot 🤍"
     @contact = {
       email: "0xAdiyat@gmail.com",
-      twitter: "https://twitter.com/0xAdiyat",
+      x: "https://x.com/0xAdiyat",
       linkedIn: "https://www.linkedin.com/in/0xAdiyat/",
       facebook: "https://www.facebook.com/0xAdiyat/"
     }
