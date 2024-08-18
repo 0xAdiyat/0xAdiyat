@@ -583,7 +583,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<tr>
 			<td>
 <h3>LearNow <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
-				<p> is a computer Social E-Learning Flutter App. Details Can't be disclosed prior to launch.</p>
+				<p> A Social Edtech based Flutter App. Running on both Android & iOS platforms. Details can't be disclosed prior to launch.</p>
 
 <p>🗓7 May 2024 - Present (~♾️ days)</p>
 			</td>
@@ -597,7 +597,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<tr>
 			<td>
 <h3>Onboarder <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
-				<p> a complex back-office web app made with Flutter App. Details Can't be disclosed prior to launch.</p>
+				<p> A complex back-office admin web app made with Flutter App. Details can't be disclosed prior to launch.</p>
 
 <p>🗓26 May 2024 - Present (~♾️ days)</p>
 			</td>
