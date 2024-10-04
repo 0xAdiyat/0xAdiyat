@@ -578,21 +578,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 🔗 <a href="upwork.com">Website</a>
 			</div>
 			</td>
-		</tr>
-       <!-- LearNow-Project -->
-		<tr>
-			<td>
-<h3>LearNow <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
-				<p> A Social Edtech based Flutter App. Running on both Android & iOS platforms. Details can't be disclosed prior to launch.</p>
-
-<p>🗓7 May 2024 - Present (~♾️ days)</p>
-			</td>
-			<td>
-			<div>
-🔗 <a href="">Website</a>
-			</div>
-			</td>
-		</tr>
+		</tr>       
     <!-- Onboarder-Project -->
 		<tr>
 			<td>
