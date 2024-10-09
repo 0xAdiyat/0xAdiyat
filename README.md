@@ -20,7 +20,7 @@ class DeveloperIntroduction
 
   def initialize
     @name = "Ahsaf Hussain Adiyat"
-    @experience = "Experienced Android and iOS developer with over 4 years in mobile app architecture."
+    @experience = "A reliable Mobile App Developer for Startup Founders"
     @description = "Lifetime learner, active programmer, and strong team manager with exceptional communication skills. Passionate about sharing knowledge through writeups."
     @current_activities = [
       "📱 4+ years in mobile app architecture",
@@ -49,7 +49,7 @@ class DeveloperIntroduction
       facebook: "https://www.facebook.com/0xAdiyat/"
     }
     @pronouns = "He/Him 👩🏻‍💻"
-    @fun_fact = "⚡ Fun fact: My code runs on coffee and creativity!"
+    @fun_fact = "⚡ Roaming the world, one line of code at a time, fueled by coffee and a love for problem-solving"
   end
 end
 
@@ -95,7 +95,7 @@ puts intro.inspect
 </div>
 
 
-## Open Source Projects
+## `🌍 Open Source Projects`
 
 <table>
   <tbody>
@@ -185,7 +185,7 @@ Currently, it has two screens which are:</b>
         <!-- ToDo-WishFlow project -->
     <tr>
       <td>
-        <img width="600px" src="https://github.com/Huss4in007/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
+        <img width="600px" src="https://github.com/0xAdiyat/ToDo-WishFlow/raw/master/wishflow_mockups/ToDo%20WishFlow%20Banner.gif" alt="ToDo-WishFlow" />
 	      <h3>ToDo-WishFlow
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-OS.png" alt="Open-Source-Project-Tag"  />
@@ -412,7 +412,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	
 ---
 
-## Animation and UI Challenges
+## `🎨 Animation and UI Challenges`
 
 <table>
 	<tbody width="100%">
@@ -490,7 +490,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 ---
 
 
-## Client Projects And Private Apps on The Stores And Vault
+## `📱 Client Projects & Private Apps`
 
 
 <table>
@@ -613,7 +613,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		</td>
 		<td>
 			<div>
-				<a href="https://github.com/Huss4in007/GHHC-HACKBAR/blob/main/GHHC-HACKBAR.apk">
+				<a href="https://github.com/0xAdiyat/GHHC-HACKBAR/blob/main/GHHC-HACKBAR.apk">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="GHHC-HACKBAR on Google Play" />
 </a>
 			</div>
@@ -621,7 +621,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 
 
    <div>
-🔗 <a href="https://github.com/Huss4in007/GHHC-HACKBAR/blob/main/GHHC-HACKBAR.apk">Download apk</a>
+🔗 <a href="https://github.com/0xAdiyat/GHHC-HACKBAR/blob/main/GHHC-HACKBAR.apk">Download apk</a>
 			</div>
 		</td>
 	</tr>
