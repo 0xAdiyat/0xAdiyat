@@ -1,4 +1,4 @@
-<img width="1560" alt="0xAdiyat GitHub Cover" src="https://github.com/user-attachments/assets/f035d499-f280-4ae6-82e6-123f229345a8">
+<img width="1560" alt="0xAdiyat GitHub Cover" src="https://github.com/user-attachments/assets/45b70e30-24fd-42fc-b775-742e0f2ba867">
 
 
 <p><a href="https://holopin.io/@0xAdiyat"><img title="🦖 Holopin" src="https://holopin.me/0xAdiyat" alt="@0xadiyat&#39;s Holopin board"></a></p>
