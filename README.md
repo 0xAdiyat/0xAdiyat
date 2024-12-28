@@ -102,7 +102,7 @@ puts intro.inspect
 </div>
 
 
-## `🌍 Open Source Projects`
+## `🌍` `Open Source Projects`
 
 <table>
   <tbody>
@@ -419,7 +419,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 	
 ---
 
-## `🎨 Animation and UI Challenges`
+## `🎨` `Animation and UI Challenges`
 
 <table>
 	<tbody width="100%">
@@ -497,7 +497,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 ---
 
 
-## `📱 Client Projects & Private Apps`
+## `📱` `Client Projects & Private Apps`
 
 
 <table>
