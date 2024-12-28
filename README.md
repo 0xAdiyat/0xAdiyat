@@ -1,3 +1,7 @@
+<!--x axis divider-->
+<img src="/assets/horizontal-divider-gradient.gif">
+
+
 <img width="1560" alt="0xAdiyat GitHub Cover" src="https://github.com/user-attachments/assets/def5bcc6-2054-44d3-b6ce-682d3f87f2bb">
 
 
