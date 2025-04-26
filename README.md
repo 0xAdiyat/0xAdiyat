@@ -506,9 +506,54 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<th>Project</th>	
 		<th>Links</th>
 	</tr>
-<!-- Travel-Story-Project -->
-	<tr>
+
+  <!-- FoxValleyCoins-Project -->
+  <tr>
+	  <td>
+<img width="740px" alt="Thumbnail 4_3 - TravelStory - Rounded" src="https://github.com/user-attachments/assets/33b5047c-cd75-4bf0-8790-7693b44dff56">
+<h3>FoxValleyCoins <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
+			<p>An android and ios app which offers real-time insights and tools to track, analyze, and stay informed about coin prices, collections, and historical data.</a></p>
+   
+### Features
+
+- [x] **Real-Time Price Tracking:**  
+  - Users can access up-to-date market values for coins, bullion, and precious summaries.  
+
+- [x] **Extensive Coin Database:**  
+  - Explore detailed information and historical data on a wide range of coins.  
+
+- [x] **Customizable Watchlists:**  
+  - Create personalized watchlists to monitor favorite coins and market trends.  
+
+- [x] **Interactive Collection Management:**  
+  - Organize and track personal coin collections with visual tools and valuation insights.  
+
+- [x] **Live Market Insights:**  
+  - Stay informed with the latest news, trends, and analysis in the coin and precious metal industry.  
+
+- [x] **Secure and User-Friendly Interface:**  
+  - Enjoy a sleek, intuitive design optimized for both casual users and professionals.
+     
+   
+<p>🗓 November 2024 - December 2024 (1 month)</p>
+		</td>
 		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.foxvalleycoins.app.fox_valley_coins">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="FoxValleyCoins on Google Play" />
+</a>
+				<br/>
+<a href="https://apps.apple.com/us/app/fox-valley-coins/id6742663095">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="FoxValleyCoins on App Store" />
+</a>
+			</div>
+			<div>
+		</td>
+	</tr>
+
+<!-- Travel-Story-Project -->
+<tr>
+ <td>
 <img width="740px" alt="Thumbnail 4_3 - TravelStory - Rounded" src="https://github.com/0xAdiyat/0xAdiyat/assets/67780459/f6323f66-f15f-4b20-abc9-c6d3e72e6a79">
 <h3>Travel-Story <img src="https://raw.githubusercontent.com/0xAdiyat/0xAdiyat/main/assets/Tag-PaidP.png" alt="Paid-Project-Tag"/></h3>
 			<p>Unleash the Power of Your Travel Tales app built with Flutter. I worked on this app as the only Flutter Developer</a></p>
