@@ -37,7 +37,7 @@ class DeveloperIntroduction
       "🌟 Contributed to 3 top open-source projects with 5k+ GitHub stars combined",
       "🎨 Improved UI/UX, increasing conversion rates by 20%",
       "👥 Led teams, boosting development speed by 30%",
-      "🔧 1500+ open source contribution points"
+      "🔧 3300+ open source contribution points"
     ]
     @learning = "🌱 Currently learning Flutter, SwiftUI, Java, Swift, Spring-Boot, and primarily ML. The learning never stops!"
     @tools = ["Vim", "Android Studio", "Visual Studio Code", "IntelliJ IDEA", "Xcode", "STS(SpringToolSuite4)", "Eclipse", "Sublime Text 3"]
