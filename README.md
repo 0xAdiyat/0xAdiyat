@@ -97,7 +97,7 @@ puts intro.inspect
 
 <!-- GitHub stats and streaks -->
 <div style="display: flex; align-items: center;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
+  <img width="45%" src="https://github-readme-stats-adiyat.vercel.app/api?username=0xAdiyat&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Adiyat's Github Stats" />
   <img width="47.45%" src="https://github-readme-streak-stats.herokuapp.com?user=0xAdiyat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Adiyat's GitHub Streaks" />
 </div>
 
@@ -128,7 +128,7 @@ puts intro.inspect
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/Dialogix">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Dialogix&theme=dracula"alt="Dialogix Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=Dialogix&theme=dracula"alt="Dialogix Repo" />
           </a>
         </div>
       </td>
@@ -158,7 +158,7 @@ Currently, it has two screens which are:</b>
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/CoinPulse-UI-Kit">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=CoinPulse-UI-Kit&theme=dracula"alt="CoinPulse-UI-Kit Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=CoinPulse-UI-Kit&theme=dracula"alt="CoinPulse-UI-Kit Repo" />
           </a>
         </div>
       </td>
@@ -184,7 +184,7 @@ Currently, it has two screens which are:</b>
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/STYLEsnap">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=STYLEsnap&theme=dracula"alt="STYLEsnap Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=STYLEsnap&theme=dracula"alt="STYLEsnap Repo" />
           </a>
         </div>
       </td>
@@ -227,7 +227,7 @@ Currently, it has two screens which are:</b>
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/ToDo-WishFlow">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=ToDo-WishFlow&theme=dracula" alt="ToDo-WishFlow Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=ToDo-WishFlow&theme=dracula" alt="ToDo-WishFlow Repo" />
           </a>
         </div>
       </td>
@@ -271,7 +271,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/EsePorchi-Arrived">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=EsePorchi-Arrived&theme=dracula"alt="EsePorchi-Arrived Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=EsePorchi-Arrived&theme=dracula"alt="EsePorchi-Arrived Repo" />
           </a>
         </div>
       </td>
@@ -304,7 +304,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula"alt="@Connectify Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula"alt="@Connectify Repo" />
           </a>
         </div>
       </td>
@@ -336,7 +336,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/SpaceElement">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula"alt="SpaceElement Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula"alt="SpaceElement Repo" />
           </a>
         </div>
       </td>
@@ -368,7 +368,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/Acadify">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula"alt="Acadify Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula"alt="Acadify Repo" />
           </a>
         </div>
       </td>
@@ -389,7 +389,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xAdiyat/Flutterify">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Flutterify&theme=dracula" alt="Flutterify Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=Flutterify&theme=dracula" alt="Flutterify Repo" />
           </a>
         </div>
       </td>
@@ -409,7 +409,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
         <h4>Source code</h4>
         <div>
           <a href="https://github.com/Fhixa/JetNinja/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fhixa&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
+            <img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=Fhixa&repo=JetNinja&theme=dracula" alt="JetNinja Repo" />
           </a>
         </div>
       </td>
@@ -442,17 +442,17 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<tr>
 			<td>
 				<a href="https://github.com/0xAdiyat/at-the-rate-of-Connectify">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula" alt="@Connectify" />
+					<img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=at-the-rate-of-Connectify&theme=dracula" alt="@Connectify" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/0xAdiyat/SpaceElement">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula" alt="SpaceElement" />
+					<img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=SpaceElement&theme=dracula" alt="SpaceElement" />
 				</a>
 			</td>
 			<td>
 			<a href="https://github.com/0xAdiyat/Acadify">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula" alt="Acadify" />
+					<img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=Acadify&theme=dracula" alt="Acadify" />
 				</a>	
 			</td>
 		</tr>
@@ -482,7 +482,7 @@ Persist alarm data using SharedPreferences. You can read detailed information in
 		<tr>
 			<td>
 			<a href="https://github.com/0xAdiyat/SwiftUI-Playground">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAdiyat&repo=SwiftUI-Playground&theme=dracula" alt="SwiftUI-Weather-App" />
+					<img src="https://github-readme-stats-adiyat.vercel.app/api/pin/?username=0xAdiyat&repo=SwiftUI-Playground&theme=dracula" alt="SwiftUI-Weather-App" />
 				</a>	
 			</td>
 		</tr>
